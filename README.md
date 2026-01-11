@@ -2,6 +2,14 @@
 
 A comprehensive graphical save editor for *Slay the Spire*, written in Python. This tool allows you to easily modify your `.autosave` files to customize your run.
 
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/Screenshot1.png" alt="General Settings" width="300" />
+  <img src="screenshots/Screenshot2.png" alt="Card Editor" width="300" />
+  <img src="screenshots/Screenshot3.png" alt="Relic Editor" width="300" />
+</div>
+
 ## Features
 
 -   **General Stats Editor**: Modify Gold, Current HP, Max HP, Ascension Level, Floor number, and your character's display name.
